@@ -1,0 +1,8 @@
+{
+    "name": "gitbook-plugin-select",
+    "version": "0.0.1",
+    "description": "A Gitbook plugin to filter an array.",
+    "engines": {
+        "gitbook": ">1.x.x"
+    }
+}
